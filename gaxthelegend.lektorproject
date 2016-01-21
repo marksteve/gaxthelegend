@@ -1,0 +1,6 @@
+[project]
+name = gaxthelegend
+
+[servers.ghpages]
+name = GitHub Pages
+target = ghpages://marksteve/gaxthelegend?cname=gaxthelegend.com
