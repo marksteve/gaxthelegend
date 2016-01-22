@@ -1,6 +1,209 @@
-title: Welcome to gaxthelegend!
+title: Gax "The Legend" Ilanan
 ---
 body:
 
 This is a basic demo website that shows how to use Lektor for a basic
 website with some pages.
+---
+bio: Bio ni tito gax
+---
+posts:
+
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10153992854144271&set=o.173528385999641&type=3
+----
+date: 2016-1-22
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10153868808194666&set=a.82109199665.77200.501534665&type=3
+----
+date: 2016-1-22
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/climbnbolt/posts/759421127495200
+----
+date: 2016-1-21
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10153869086859176&set=a.10150485816334176.390131.593319175&type=3
+----
+date: 2016-1-21
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/permalink.php?story_fbid=1133527623333041&id=173528385999641
+----
+date: 2016-1-21
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/permalink.php?story_fbid=1133572689995201&id=173528385999641
+----
+date: 2016-1-21
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10103634530828040&set=a.10100219880175320.2623359.15924396&type=3
+----
+date: 2016-1-20
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/permalink.php?story_fbid=1132346860117784&id=173528385999641
+----
+date: 2016-1-19
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10208734107413765&set=a.1217174793220.32964.1344366312&type=3
+----
+date: 2016-1-20
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10153861983944666&set=a.82109199665.77200.501534665&type=3
+----
+date: 2016-1-19
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/buddy.advincula/posts/10154100493583646
+----
+date: 2016-1-20
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/permalink.php?story_fbid=1132147813471022&id=173528385999641
+----
+date: 2016-1-18
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/ikamarasigan/posts/1147465135288435
+----
+date: 2016-1-20
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/kerwin.stiki/posts/10153962619061995
+----
+date: 2016-1-20
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/permalink.php?story_fbid=10156419087670557&id=173528385999641
+----
+date: 2016-1-19
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/mirodz21/posts/10206866178405494
+----
+date: 2016-1-19
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/permalink.php?story_fbid=1132570350095435&id=173528385999641
+----
+date: 2016-1-19
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10153869086859176&set=a.10150485816334176.390131.593319175&type=3
+----
+date: 2016-1-21
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/climbph/posts/739002606236283
+----
+date: 2016-1-20
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10153866028409176&set=a.47141239175.54674.593319175&type=3
+----
+date: 2016-1-19
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/bamlurvking/posts/1215492008468067
+----
+date: 2016-1-19
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/poloyskie.ollirama/posts/10153467853269151
+----
+date: 2016-1-19
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10153962638286995&set=a.10150265673231995.381587.760856994&type=3
+----
+date: 2016-1-20
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10153501347823049&set=a.10150565097118049.383654.596248048&type=3
+----
+date: 2016-1-20
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/ceburockclimbingcommunity/photos/a.817877361618352.1073741828.716800905059332/997412813664805/?type=3
+----
+date: 2016-1-20
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/kirkpatrickgil.oliverio/posts/10153579006533122
+----
+date: 2016-1-19
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/352641928079307/photos/a.360027634007403.94166.352641928079307/1126983580645134/?type=3
+----
+date: 2016-1-20
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/geia13/posts/10207464718710360
+----
+date: 2016-1-20
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/173528385999641/photos/a.195998560419290.47863.173528385999641/1133327136686423/?type=3
+----
+date: 2016-1-21
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10153723880765289&set=a.160867380288.144564.592085288&type=3
+----
+date: 2016-1-19
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/permalink.php?story_fbid=1132543600098110&id=173528385999641
+----
+date: 2016-1-19
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10207435534021014&set=a.1552433605253.2075135.1067535945&type=3
+----
+date: 2016-1-19
+#### post ####
+type: facebook
+----
+url: https://www.facebook.com/photo.php?fbid=10156248354225538&set=a.10150243614210538.470358.553675537&type=3
+----
+date: 2016-1-20

@@ -1,42 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
-    font-family: 'Verdana', sans-serif;
-    margin: 50px 25px;
+  font: 20px/1.5 nimbus-sans-condensed, sans-serif;
+  padding: 1.5rem;
 }
 
-a {
-    color: #2a99b6;
+.page {
+  max-width: 60rem;
+  margin: 0 auto;
 }
 
-a:hover {
-    color: #33bbdf;
+.bio {
+  padding: 1.5rem;
+  text-align: center;
 }
 
-header, footer, div.page {
-    width: 760px;
-    margin: 0 auto;
-    background: #daeef3;
-    padding: 20px 30px;
+.bio img {
+  max-width: 20rem;
 }
 
-header h1 {
-    color: #169bbd;
-    margin: 0;
-    font-weight: normal;
-    font-size: 42px;
+.post {
+  padding: 1.5rem;
+  text-align: center;
 }
 
-header nav ul {
-    list-style: none;
-    margin: 0;
+footer {
+  font-size: small;
+  text-transform: uppercase;
+  color: #999;
+  padding: 3rem;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  body {
     padding: 0;
-}
-
-header nav ul li {
-    display: inline;
-    margin: 0 8px 0 0;
-    padding: 0;
-}
-
-div.page {
-    background: #f1fbfe;
+  }
+  .posts, footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
